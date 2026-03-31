@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "base_track": "流れ星の正体",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-31T23:26:00.679249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nagareboshi No Shoutai [流れ星の正体]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Nagareboshi_No_Shoutai_[流れ星の正体]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "流れ星の正体",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_流れ星の正体_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流れ星の正体",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_流れ星の正体_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "流れ星の正体",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/localdb_01_流れ星の正体_BUMP_OF_CHICKEN.txt",
+      "repo_name": "V5ehe-cAbfg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "流れ星の正体",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/localdb_02_流れ星の正体_BUMP_OF_CHICKEN.txt",
+      "repo_name": "vfhRGqCn1u0"
+    }
+  ]
+}
